@@ -17,6 +17,9 @@ uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 [[deps.CRC32c]]
 uuid = "8bf52ea8-c179-5cab-976a-9e18b702a9bc"
 
+[[deps.Combinatorics]]
+uuid = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+
 [[deps.CompilerSupportLibraries_jll]]
 deps = ["Artifacts", "Libdl"]
 uuid = "e66e0078-7015-5450-92f7-15fbd957f2ae"
@@ -131,6 +134,10 @@ version = "1.10.1"
 [[deps.Test]]
 deps = ["InteractiveUtils", "Logging", "Random", "Serialization"]
 uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[[deps.TimeZones]]
+deps = ["Dates"]
+uuid = "f269a46b-ccf7-5d73-abea-4c690281aa53"
 
 [[deps.UUIDs]]
 deps = ["Random", "SHA"]
